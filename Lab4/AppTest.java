@@ -1,7 +1,7 @@
 package Lab4;
 
 
-public class AppTest extends Project{
+public class AppTest{
 
 
     public void Printem(){
